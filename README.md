@@ -1,5 +1,5 @@
 # 👋 About Me:
-I'm a computer science student and hobbyist game developer.<br>I currently work as a DevOps Intern at SMBC Capital Markets.
+I'm a computer science student and hobbyist game developer.
 
 
 ## 🌐 Socials:
